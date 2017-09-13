@@ -10,7 +10,7 @@
 ## References
 1. [Wikipedia](https://en.wikipedia.org/wiki/Genetic_algorithm)
 2. [Youtube MIT](https://www.youtube.com/watch?v=kHyNqSnzP8Y&t=1688s)
-[![Images]](https://raw.githubusercontent.com/nmtri881994/Genetic-Algorithm-apply-on-generating-learning-calendar/master/images/AlgorithmConditions.PNG)
+[![Build Status Images](https://travis-ci.org/fengyuanchen/cropper.svg)](https://travis-ci.org/fengyuanchen/cropper)
 ## How I apply
 1. Determine algorithm conditions based on college/university. In my case, I run the algorithm with following conditions and corresponding adaption point:
 
