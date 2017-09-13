@@ -29,7 +29,8 @@ Following table showing you an overview how the algorithm process executes.
 ![](https://raw.githubusercontent.com/nmtri881994/Genetic-Algorithm-apply-on-generating-learning-calendar/master/images/Result.PNG)
 
 And here are full calendar generated for each faculty-course-major-group  
-** The lessons with name label colored by white are philosophy an the others are practice   
+** The lessons with name label colored by white are philosophy an the others are practice
+
 Faculty: Cơ khí - Course: 2015 - Major: Cơ khí 1 - Group: 15  
 ![](https://raw.githubusercontent.com/nmtri881994/Genetic-Algorithm-apply-on-generating-learning-calendar/master/images/2015-ck1-15.png)
 
