@@ -50,6 +50,6 @@ Faculty: Cơ khí - Course: 2016 - Major: Cơ khí 6 - Group: 14
 ![](https://raw.githubusercontent.com/nmtri881994/Genetic-Algorithm-apply-on-generating-learning-calendar/master/images/2016-ck6-14.png)
 
 ## Note
-If you want to look over the code, go to [this repository](), navigate to controller 'GiaoVuController', api function 'generateRandomCalendarForSemester'.
+If you want to look over the code, go to [this repository](https://github.com/nmtri881994/learningCalendarBackend), navigate to controller 'GiaoVuController', api function 'generateRandomCalendarForSemester'.
 The code maybe a bit messy xD.  
 [⬆ back to top](#table-of-contents)
