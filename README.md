@@ -25,7 +25,8 @@
 3.4.2 If not, make a loop, execute selecting, mutating, cross-over-ing phase. Break out of the loop till succeed or current generation > number of maximum generation.  
 
 ## Result
-
+* Following table showing you an overview how the algorithm process executes.
+![](https://raw.githubusercontent.com/nmtri881994/Genetic-Algorithm-apply-on-generating-learning-calendar/master/images/Result.PNG)
 ## Note
 
 [⬆ back to top](#table-of-contents)
