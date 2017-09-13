@@ -14,7 +14,15 @@
 1. Determine algorithm conditions based on college/university. In my case, I run the algorithm with following conditions and corresponding adaption point:  
 ![Build Status Images](https://raw.githubusercontent.com/nmtri881994/Genetic-Algorithm-apply-on-generating-learning-calendar/master/images/AlgorithmConditions.PNG)
 
-2.
+2. I devide all classes of college/university into smaller groups following faculty-course-major-group
+
+3. Apply Genetic Algorithm to each group  
+3.1 Generate random calendar for each class at the very start.  
+3.2 Set the adaption point for each class by counting from all conditions.  
+3.3 Sort the class group grow up by adaption point.  
+3.4 Check succeed if the first class of group has adaption point less than optimal adaption point we set before.  
+3.4.1 If succeed, go through next class group  
+3.4.2 If not, make a loop, execute selecting, mutating, cross-over-ing phase. Break out of the loop till succeed or current generation > number of maximum generation.  
 
 ## Result
 
