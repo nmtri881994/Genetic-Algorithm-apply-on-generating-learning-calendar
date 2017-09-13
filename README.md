@@ -29,6 +29,24 @@ Following table showing you an overview how the algorithm process executes.
 ![](https://raw.githubusercontent.com/nmtri881994/Genetic-Algorithm-apply-on-generating-learning-calendar/master/images/Result.PNG)
 
 And here are full calendar generated for each faculty-course-major-group  
+Faculty: Cơ khí - Course: 2015 - Major: Cơ khí 1 - Group: 15  
+![](https://raw.githubusercontent.com/nmtri881994/Genetic-Algorithm-apply-on-generating-learning-calendar/master/images/2015-ck1-15.png)
+
+Faculty: Cơ khí - Course: 2015 - Major: Cơ khí 1 - Group: 16  
+![](https://raw.githubusercontent.com/nmtri881994/Genetic-Algorithm-apply-on-generating-learning-calendar/master/images/2015-ck1-16.png)
+
+Faculty: Cơ khí - Course: 2016 - Major: Cơ khí 1 - Group: 15  
+![](https://raw.githubusercontent.com/nmtri881994/Genetic-Algorithm-apply-on-generating-learning-calendar/master/images/2016-ck1-15.png)
+
+Faculty: Cơ khí - Course: 2016 - Major: Cơ khí 1 - Group: 16  
+![](https://raw.githubusercontent.com/nmtri881994/Genetic-Algorithm-apply-on-generating-learning-calendar/master/images/2016-ck1-16.png)
+
+Faculty: Cơ khí - Course: 2016 - Major: Cơ khí 6 - Group: 13  
+![](https://raw.githubusercontent.com/nmtri881994/Genetic-Algorithm-apply-on-generating-learning-calendar/master/images/2016-ck6-13.png)
+
+Faculty: Cơ khí - Course: 2016 - Major: Cơ khí 6 - Group: 14  
+![](https://raw.githubusercontent.com/nmtri881994/Genetic-Algorithm-apply-on-generating-learning-calendar/master/images/2016-ck6-14.png)
+
 ## Note
   
 [⬆ back to top](#table-of-contents)
