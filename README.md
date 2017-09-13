@@ -1,14 +1,22 @@
-# LEARNING CALENDAR APPLICATION BACK-END
-> A university learning calendar management application back-end
+# GENETIC ALGORITHM APPLY ON GENERATING LEARNING CALENDAR
+> The algorithm I use to automatically generated learning calendar for college/university using credit system.
 
 ## Table of contents
-*[Definition](#definition)  
-*[How I apply](#how-i-apply)  
-*[Note](#note)
+* [References](#references)  
+* [How I apply](#how-i-apply)  
+* [Result](#result)  
+* [Note](#note)
 
-## Definition
+## References
+1. [Wikipedia](https://en.wikipedia.org/wiki/Genetic_algorithm)
+2. [Youtube MIT](https://www.youtube.com/watch?v=kHyNqSnzP8Y&t=1688s)
 
 ## How I apply
+1. Determine algorithm conditions based on college/university. In my case, I run the algorithm with following conditions and corresponding adaption point:
+
+2.
+
+## Result
 
 ## Note
 
