@@ -3,7 +3,8 @@
 
 ## Table of contents
 * [References](#references)  
-* [How I apply](#how-i-apply)  
+* [How I apply](#how-i-apply)
+* [Default conditions](#default-conditions)
 * [Result](#result)  
 * [Note](#note)
 
@@ -23,6 +24,16 @@
 3.4 Check succeed if the first class of group has adaption point less than optimal adaption point we set before.  
 3.4.1 If succeed, go through next class group  
 3.4.2 If not, make a loop, execute selecting, mutating, cross-over-ing phase. Break out of the loop till succeed or current generation > number of maximum generation.  
+
+## Default conditions
+Together with the conditions of specific problem, I have set some default conditions for the algorithm as follow:
+1. Number of individuals in population: 20
+2. Parent individual percentages: 40%
+3. Crossover individual percentages: 30%
+4. Mutation individual percentages: 30%
+5. Mutate rate: 50%
+
+Changing these condition can make algorithm runs faster or slower, you need to find the configuration suitable to your problem.
 
 ## Result
 Following table showing you an overview how the algorithm process executes.
