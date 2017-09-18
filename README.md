@@ -1,5 +1,5 @@
 # GENETIC ALGORITHM APPLY ON GENERATING LEARNING CALENDAR
-> The algorithm I use to automatically generating learning calendar for college/university using credit system.
+> The algorithm I use to automatically generate learning calendar for college/university using credit system.
 
 ## Table of contents
 * [References](#references)  
