@@ -33,7 +33,7 @@ Together with the conditions of specific problem, I have set some default condit
 4. Mutation individual percentages: 30%
 5. Mutate rate (percentages of individual's genes will be mutated): 50%
 
-Changing these condition can make algorithm runs faster or slower, you need to find the configuration suitable to your problem.
+Changing these conditions can make algorithm runs faster or slower, you need to find the configuration suitable to your problem.
 
 ## Result
 Following table showing you an overview how the algorithm process executes.
